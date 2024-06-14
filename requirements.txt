@@ -4,7 +4,6 @@ numpy
 streamlit_extras
 streamlit_lottie
 plotly.express
-plotly.graph_objects
 plotly
 seaborn
 matplotlib.pyplot
