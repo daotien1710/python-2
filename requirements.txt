@@ -6,4 +6,4 @@ streamlit_lottie
 plotly.express
 plotly
 seaborn
-matplotlib.pyplot
+matplotlib
